@@ -23,3 +23,6 @@ Some information about the data are :-
    * There are 10,000+ images in training sets. (these images have labels)
    * There are around 10,000+ images in the test set. (these images will have no label because we will want to predict  them)
 
+
+
+# DOWNLOAD THE TRAIN AND TEST FROM THE KAGGLE LINK https://www.kaggle.com/c/dog-breed-identification
